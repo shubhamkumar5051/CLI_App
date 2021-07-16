@@ -33,7 +33,7 @@ questionOne = {
 };
 questionTwo = {
   question:
-    'Q.2" //Comment" is correct syntax to create a single-line comment in the C++ program ? ',
+    'Q.2 "//Comment" is correct syntax to create a single-line comment in the C++ program ? ',
   answer: "yes",
 };
 questionThree = {
@@ -120,6 +120,6 @@ if (ans === "YES") {
 }
 //if condition ends
 else {
-  console.log("\n" + user + " bro Padhai Likhai karo IAS WAS bano");
+  console.log("\n" + user + "  Padhai Likhai karo IAS WIAS bano");
   console.log("\n----------GAME OVER----------");
 }
