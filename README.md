@@ -1,2 +1,10 @@
 # CLI_App
-developed CLI c++ quiz app under the guidance of tanay pratap neogcamp level zero.
+
+This is Command line interface c++ quiz app which i made under the guidance of tanay pratap neogcamp level zero.
+
+User can Answer the question simply typing Yes or No and press Enter 
+
+devloped using nodejs
+
+hosted using Replit
+
